@@ -13,7 +13,7 @@ function App() {
     <div className='h-screen w-screen font-mont text-black font-vendana'>
       <Navbar2 />
       <Routes >
-        <Route path='/' element={<Learn2 />} />
+        <Route path='/Memory-Mapper' element={<Learn2 />} />
         <Route path='/visualise' element={<Visualise />} />
         <Route path='/pageReplacement' element={<PageReplcement />} />
       </Routes>

@@ -24,7 +24,7 @@ const Navbar2 = () => {
             TEAM - ELITE
           </div>
           <div className='flex justify-between mr-10 hover:cursor-pointer'>
-            <Link to='/'>
+            <Link to='/Memory-Mapper'>
                 <p className='px-6 text-black hover:underline hover:scale-110 duration-200'>Learn</p>
             </Link>
             
